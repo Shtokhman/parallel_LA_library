@@ -15,3 +15,5 @@ The Instruction:
 
 A couple of the examples are situated right inside the main.cpp, so as you could analogically make other calculations
 For the source code look into matrix.cpp and matrix.hpp files.
+
+© Created by Shtokhman Yuriy, Taras Hrytsiv and Anna Hayda.
